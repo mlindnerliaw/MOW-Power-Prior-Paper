@@ -7,6 +7,8 @@ library(survival)
 
 
 # load file name for stan
+# for DAW method
+#fileName<-DAW Weibull w Alpha.stan"
 fileName<-"Weibull.stan"
 
 # covariate matrix for current data
